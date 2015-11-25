@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SqliteRecetario</string>
+    <string name="title_activity_prueba">Prueba</string>
+    <string name="title_activity_actividad_contenedor">ActividadContenedor</string>
+</resources>
